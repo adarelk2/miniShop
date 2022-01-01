@@ -1,0 +1,14 @@
+[19-Dec-2021 03:50:03 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/escorozp/public_html/DB/db-config.php on line 4
+[19-Dec-2021 03:50:03 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/escorozp/public_html/DB/db-config.php on line 4
+[19-Dec-2021 03:50:27 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/escorozp/public_html/DB/db-config.php on line 4
+[19-Dec-2021 03:50:27 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/escorozp/public_html/DB/db-config.php on line 4
+[19-Dec-2021 03:52:51 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/escorozp/public_html/DB/db-config.php on line 4
+[19-Dec-2021 03:52:51 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/escorozp/public_html/DB/db-config.php on line 4
+[19-Dec-2021 03:52:54 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/escorozp/public_html/DB/db-config.php on line 4
+[19-Dec-2021 03:52:54 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/escorozp/public_html/DB/db-config.php on line 4
+[19-Dec-2021 03:54:04 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/escorozp/public_html/DB/db-config.php on line 4
+[19-Dec-2021 03:54:04 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/escorozp/public_html/DB/db-config.php on line 4
+[19-Dec-2021 03:54:24 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/escorozp/public_html/DB/db-config.php on line 4
+[19-Dec-2021 03:54:24 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/escorozp/public_html/DB/db-config.php on line 4
+[19-Dec-2021 03:55:02 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/escorozp/public_html/DB/db-config.php on line 4
+[19-Dec-2021 03:55:02 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/escorozp/public_html/DB/db-config.php on line 4

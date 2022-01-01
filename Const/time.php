@@ -1,0 +1,9 @@
+<?php
+    define("ONE_MIN",60);
+    define("TWO_MIN",120);
+    define("ONE_HOUR",3600);
+    define("ONE_DAY",86400);
+    define("ONE_WEEK",604800);
+    define("ONE_MONTH",2592000);
+    define("ONE_YEAR",31104000);
+    ?>

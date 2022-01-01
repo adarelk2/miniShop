@@ -1,0 +1,3 @@
+[19-Dec-2021 03:50:21 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/escorozp/public_html/DB/db-config.php on line 4
+[19-Dec-2021 15:42:15 Asia/Jerusalem] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/escorozp/public_html/Routes/admin/Post.php on line 45
+[20-Dec-2021 10:01:10 Asia/Jerusalem] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/escorozp/public_html/Routes/admin/Post.php on line 45

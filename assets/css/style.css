@@ -1,0 +1,68 @@
+#footer
+{
+    position: absolute;
+    top: 101%;
+}
+body
+{
+    font-family: Regular !important;
+    height:100%;
+    position: relative;
+    background-color: #000!important;
+    color:#000!important;
+
+}
+
+@font-face
+{
+    font-family: Regular;
+    src: url('./font/OpenSansHebrew-Regular.ttf');
+}
+@font-face
+{
+    font-family: Bold;
+    src: url('./font/OpenSansHebrew-Bold.ttf');
+}
+@font-face
+{
+    font-family: Light;
+    src: url('./font/OpenSansHebrew-Light.ttf');
+}
+main
+{
+    min-height: 80vh;
+}
+ul.timeline {
+    list-style-type: none;
+    position: relative;
+}
+ul.timeline:before {
+    content: ' ';
+    background: #004466;
+    display: inline-block;
+    position: absolute;
+    right: 29px;
+    width: 2px;
+    height: 100%;
+    z-index: 400;
+}
+ul.timeline > li {
+    margin: 20px 0;
+    padding-right: 20px;
+}
+ul.timeline > li:before {
+    content: ' ';
+    background: white;
+    display: inline-block;
+    position: absolute;
+    border-radius: 50%;
+    border: 3px solid #004466;
+    right: 20px;
+    width: 20px;
+    height: 20px;
+    z-index: 400;
+}
+a
+{
+    color:#004466;
+}
