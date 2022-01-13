@@ -160,34 +160,3 @@ class Product
     }
 }
 export default Product;
-
-
-
-
-
-let deleteBTN = document.createElement("button");
-deleteBTN.className = "btn btn-danger";
-
-function deleteProduct()
-{
-    get("./get.php")
-}
-
-let elementsAR = [
-    {
-        element:deleteBTN,
-        event:"click",
-        callback:deleteProduct()
-    }
-]
-
-return new Promise((res,rej)=>{
-    elementsAR.map(element=>{
-
-        $(_parent).append(element.element);
-    
-        element.addEventListener(element.event,()=>{
-            res({response:element.callback(),click:element.element})
-        })
-    })
-})
